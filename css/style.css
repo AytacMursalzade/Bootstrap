@@ -1,0 +1,290 @@
+
+
+.container{
+    overflow: hidden;
+    margin: auto;
+    padding-top: 8px;
+}
+
+.win{
+  
+    margin: auto;
+}
+
+.while{
+    overflow: hidden;
+    margin: auto;
+    height: 85px;
+    position: absolute;
+    top: 1079px;
+    left: 69px;
+    margin-bottom: 5px;
+}
+
+
+.main{
+    width: 1124px;
+    height: 444px;
+    
+    position: relative;
+    left: 21px;
+}
+
+.main img{
+    position: absolute;
+    width: 1124px;
+    height: 444px;
+}
+
+#one{
+    font-size: 40px;
+    color: black;
+    padding-bottom: 265px;
+    padding-top: 10px;
+   
+}
+
+.sozcuk{
+    position: absolute;
+    padding-top: 22px;
+    font-size: small;
+    font-family: 'Cormorant Garamond', serif;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.first{
+    position: absolute;
+    z-index: 1;
+    left: 183px;
+    top: 265px;
+    padding-top: 4px;
+    background-color: transparent;
+    
+} 
+
+
+#test:hover{
+    background-color: black;
+    color: white;
+}
+
+.second{
+    font-size: 28px;
+    position: relative;
+    left:392px;
+    padding-top: 24px;
+}
+
+.pic{
+    width: 266px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    right: -875px;
+    top: 109px;
+}
+
+
+.pic img{
+    box-sizing: border-box;
+    width: 266px;
+    height: 200px;
+  
+}
+.pic p{
+    font-size: 20px;
+    font-family:Berlin Sans FB;
+    text-align: center;
+    margin-bottom: 19px;
+}
+.pic button{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 65px;
+    
+}
+
+.new{
+    font-size:medium;
+    text-align: justify;
+    font-family:  'Varela Round', sans-serif;  
+}
+
+
+.pictre{
+    width: 266px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    left: 35px;
+    top: 109px;
+}
+
+.pictre img{
+    box-sizing: border-box;
+    width: 266px;
+    height: 200px;
+   
+   
+}
+
+.pictre button{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 65px;
+    
+}
+
+.pictre p{
+    font-size: 20px;
+    font-family:Berlin Sans FB;
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.ayear{
+    font-size:medium;
+    text-align: justify;
+    font-family:  'Varela Round', sans-serif;
+}
+
+
+.in{
+    width: 266px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    left: 5px;
+    top: 109px;
+}
+
+.in img{
+    box-sizing: border-box;
+    width: 266px;
+    height: 200px;
+  
+}
+
+.in button{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 65px;
+    
+}
+
+
+.in p{
+    font-size: 20px;
+    font-family:Berlin Sans FB;
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.ain{
+    font-size:medium;
+    text-align: justify;
+    font-family:  'Varela Round', sans-serif; 
+}
+
+.on{
+    width: 266px;
+    height: 200px;
+    background-color: transparent;
+    position: absolute;
+    right: 929px;
+    top: 109px;
+}
+
+.on button{
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 65px;
+    
+}
+
+
+
+.on img{
+    box-sizing: border-box;
+    width: 266px;
+    height: 200px;
+  
+}
+
+.on p{
+    font-size: 20px;
+    font-family:Berlin Sans FB;
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.aname{
+    font-size:medium;
+    text-align: justify;
+    font-family:  'Varela Round', sans-serif;
+}
+
+.while{
+    width: 1124px;
+    height: 85px;
+    background-color:#EFEFEF ;
+    position: absolute;
+    top: 1079px;
+    left: 69px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    margin: auto;
+    
+}
+
+
+
+
+.while b{
+    font-size: x-large;
+    position: absolute;
+    top: 43px;
+    left: 401px;
+}
+
+.afile button{
+    position: absolute;
+    top: 344px;
+    left:324px;  
+    background-color: #86868f;
+}
+
+
+.afile button:hover{
+    background-color: #86868f;
+}
+
+
+@media only screen and (max-width: 720px) {
+    .main{
+        max-height: 300px;
+        max-width: 96%;
+       
+    }
+    .win{
+        font-size: 22px;
+        margin-bottom: 10px;
+        line-height: 35px;
+        max-width: 96%;
+    }
+   
+    .first button{
+        margin-bottom: 5px;
+        max-width: 96%;
+    }
+   
+    .while{
+        max-width: 96%;  
+    }
+} 
