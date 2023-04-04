@@ -2,3 +2,11 @@ body{
     background-image: url("../img/concrete_seamless.png")!important;
     
 }
+
+.p_div{
+    text-align:justify;
+
+}
+.img_div{
+    float: left;
+}
