@@ -8,5 +8,6 @@ body{
 
 }
 .img_div{
+    margin: 10px;
     float: left;
 }
